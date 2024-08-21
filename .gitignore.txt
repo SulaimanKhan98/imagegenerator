@@ -1,0 +1,34 @@
+# Python
+*.pyc
+__pycache__/
+
+# Django
+db.sqlite3
+/media/
+
+# Virtualenv
+venv/
+env/
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
+
+# Other
+*.log
+
+Our Skills
+We’ve skilled in wide range of web and Other digital market tools.
+Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
+
+01-Web Development
+
+02-App Development
+
+03-AI &amp; ML Solutions
+
+04-Extension Development
+
+05-UI UX
